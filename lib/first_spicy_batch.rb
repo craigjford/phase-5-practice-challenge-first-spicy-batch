@@ -4,5 +4,6 @@
 # def is_spicy_batch(batch):
 
 def first_spicy_batch(n)
+  byebug
   # your code here
 end
